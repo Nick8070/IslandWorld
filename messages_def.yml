@@ -1,6 +1,6 @@
 # Language File : da_DK - Dansk
-error-no-perms: You don't have permission to use that command.
-error-no-perms-biome: You don't have permission to use that biome.
+error-no-perms: Du har ikke tilladelse til at bruge denne kommando
+error-no-perms-biome: Du har ikke tilladlse til at bruge dette biome.
 error-regen: Regen in progress, try again later.
 error-start: IslandWorld not started correctly, check logs. (Usually console log at server startup will have enough info why plugin is not working!)
 error-world: Can't determine the correct world.
