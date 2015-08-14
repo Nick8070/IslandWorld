@@ -4,7 +4,7 @@ error-no-perms-biome: Du har ikke tilladlse til at bruge dette biome.
 error-regen: Regen in progress, try again later.
 error-start: IslandWorld not started correctly, check logs. (Usually console log at server startup will have enough info why plugin is not working!)
 error-world: Can't determine the correct world.
-error-have-island: You already have an island.
+error-have-island: Du har allerede en ø.
 error-no-island: You don't have an island.
 error-schematic: You don't have permission to use that schematic (%name%).
 error-schematic-not-exists: Choosen schematic (%name%) doesn't exists!
