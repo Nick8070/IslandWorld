@@ -44,8 +44,7 @@ error-visit-visitor-no-reply: '%name% did not respond to your request. Request r
 error-visit-request-you-deny: You denied %name%'s request.
 error-visit-request-deny: '%name% denied your request.'
 error-visit-spawn: Can't visit %name% island, there is problem with spawn.
-error-visit-your-spawn: '%name% wants to visit your island, but there is problem with
-  your spawn.'
+error-visit-your-spawn: '%name% wants to visit your island, but there is problem with your spawn.'
 error-visit-self: Can't visit your own island.
 error-visits-blocked: Visits are set to be denied.
 error-visits-not-blocked: Visits will no longer be auto-denied.
@@ -118,18 +117,15 @@ info-cha-geco-reward-added: Global money reward added into your balance.
 info-cha-item-missing: Required item missing, unable to complete.
 info-cha-no-req-item: That challenge doesnt have a required item.
 info-cha-list-header: '&b--------- Challenges: %from%/%max% ---------'
-info-cha-reward-global: 'Reward for completing challenges: &2%count%&a piece(s) of
-  &2%item%'
+info-cha-reward-global: 'Reward for completing challenges: &2%count%&a piece(s) of &2%item%'
 info-cha-reward: 'Reward: &2%count%&a piece(s) of &2%item%'
 info-cha-eco-reward: 'Money reward: &2$%count%'
 info-cha-repetable: '&2[R]'
 info-cha-line: '%col%%id%. %rep% &e%descr%'
 info-visit-request: Visit request sent to %name%.
-info-visit-need-answer: '%name% has requested to visit your island. If you agree use
-  &b/island accept&a command or &b/island deny&a if you want to reject the request'
+info-visit-need-answer: '%name% has requested to visit your island. If you agree use &b/island accept&a command or &b/island deny&a if you want to reject the request'
 info-party-request: Party request sent to %name%. Waiting for reply...
-info-party-need-answer: '%name% wants you to join a party. Use &b/island join&a to
-  accept the request'
+info-party-need-answer: '%name% wants you to join a party. Use &b/island join&a to accept the request'
 info-party-joined: Joined %name%'s party
 info-party-joined-owner: Player %name% was added to your party
 info-party-joined-admin-player: Admin added you to %name%'s party
@@ -200,8 +196,7 @@ com-command-close: '&a/is close &7- closes your island for visitors.'
 com-command-biomelist: '&a/is biomelist &7- show possible biomes.'
 com-command-biomeshow: '&a/is biomeshow &7- show biome at your current position.'
 com-command-biomeset: '&a/is biomeset <biome> &7- change biome of your island.'
-com-command-biomechunkset: '&a/is biomechunkset <biome> &7- change biome in current
-  chunk.'
+com-command-biomechunkset: '&a/is biomechunkset <biome> &7- change biome in current chunk.'
 com-command-fly: '&a/is fly &7- enables/disables flying on your island'
 com-command-chalist: '&a/is challenges list &7- list challenges.'
 com-command-chacomplete: '&a/is challenges complete <id> &7- complete challenge.'
