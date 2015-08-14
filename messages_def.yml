@@ -1,19 +1,19 @@
 # Language File : da_DK - Dansk
 error-no-perms: Du har ikke tilladelse til at bruge denne kommando
 error-no-perms-biome: Du har ikke tilladlse til at bruge dette biome.
-error-regen: Regen in progress, try again later.
-error-start: IslandWorld not started correctly, check logs. (Usually console log at server startup will have enough info why plugin is not working!)
-error-world: Can't determine the correct world.
+error-regen: Genopbygning i gang, prøv igen senere.
+error-start: IslandWorld blev ikke startet korrekt. Tjek i loggen
+error-world: Kan ikke bestemme den korrekte verden.
 error-have-island: Du har allerede en ø.
-error-no-island: You don't have an island.
-error-schematic: You don't have permission to use that schematic (%name%).
-error-schematic-not-exists: Choosen schematic (%name%) doesn't exists!
-error-current-world: You can't use that command in current world.
-error-delay: Please wait (%time% min) before using that command.
-error-calc-delay: Please wait (%time% min) before using that command.
-error-no-free: We don't have empty islands, inform administrator!
-error-get-free: There is a problem with empty islands, inform administrator!
-error-helping: You can't create an island while you are a member of another island.
+error-no-island: Du har ikke en ø.
+error-schematic: Du har ikke tilladelse til at bruge (%name%).
+error-schematic-not-exists: Den valgte plan (%name%) findes ikke!
+error-current-world: Du kan ikke bruge den komando, i denne verden.
+error-delay: Vent venligst (%time% min) før du kan bruge den kommando igen.
+error-calc-delay: Vent venligst (%time% min) før du kan bruge den kommando igen.
+error-no-free: Der er ingen tomme øer, hop ind på forum.everpvp.dk og skriv det under Skyblock!
+error-get-free: Der er problem med tomme øer, hop ind på forum.everpvp.dk og skriv det under Skyblock!
+error-helping: Du kan ikke lave din egen ø, når du allerede er medlem af en anden ø.
 error-wg-region: There is problem with the WG protect region for your island, inform administrator!
 error-no-island-party: You don't have an island or a party.
 error-outside: You can't set home location outside your island.
