@@ -14,8 +14,8 @@ error-calc-delay: Vent venligst (%time% min) før du kan bruge den kommando igen
 error-no-free: Der er ingen tomme øer, hop ind på forum.everpvp.dk og skriv det under Skyblock!
 error-get-free: Der er problem med tomme øer, hop ind på forum.everpvp.dk og skriv det under Skyblock!
 error-helping: Du kan ikke lave din egen ø, når du allerede er medlem af en anden ø.
-error-wg-region: There is problem with the WG protect region for your island, inform administrator!
-error-no-island-party: You don't have an island or a party.
+error-wg-region: Der er et problem med WG beskyttelse region for din ø, informer venligst en administrator!
+error-no-island-party: You have an island or a party.
 error-outside: You can't set home location outside your island.
 error-expell: No players are on the island.
 error-expell-outside: That player is not on your island.
